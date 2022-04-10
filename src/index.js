@@ -20,3 +20,16 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
+
+// =======================================
+// APOLLO CONSUMER
+
+// import React from 'react';
+// import { ApolloConsumer } from '@apollo/client';
+
+// const WithApolloClient = () => (
+//   <ApolloConsumer>
+//     {client => 'We have access to the client!' /* do stuff here */} update Cache
+//   </ApolloConsumer>
+// );
+// =======================================
